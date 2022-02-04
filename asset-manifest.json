@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-website/static/css/main.f7273c58.css",
+    "main.js": "/react-portfolio-website/static/js/main.a4df1973.js",
+    "static/js/787.8c081f57.chunk.js": "/react-portfolio-website/static/js/787.8c081f57.chunk.js",
+    "static/media/project-reduxshop.png": "/react-portfolio-website/static/media/project-reduxshop.61f5496a15a2f0d72cb4.png",
+    "static/media/project-activity-music.png": "/react-portfolio-website/static/media/project-activity-music.71cf331fc5db8e80ab5d.png",
+    "static/media/profile.jpg": "/react-portfolio-website/static/media/profile.c3354c5081161554e22b.jpg",
+    "static/media/project-budget-tracker.png": "/react-portfolio-website/static/media/project-budget-tracker.54bff00749f884b097a8.png",
+    "static/media/project-ranter.png": "/react-portfolio-website/static/media/project-ranter.468daf25a592b7aa4d5a.png",
+    "static/media/project-team-generator.png": "/react-portfolio-website/static/media/project-team-generator.e11d8af54d61356f2ae6.png",
+    "static/media/project-js-quiz.png": "/react-portfolio-website/static/media/project-js-quiz.6b6539471fec3a922487.png",
+    "static/media/project-password-generator.png": "/react-portfolio-website/static/media/project-password-generator.6e82b472e0816bf844a2.png",
+    "static/media/project-notetaker.png": "/react-portfolio-website/static/media/project-notetaker.9b565ae4c1b00b697110.png",
+    "index.html": "/react-portfolio-website/index.html",
+    "main.f7273c58.css.map": "/react-portfolio-website/static/css/main.f7273c58.css.map",
+    "main.a4df1973.js.map": "/react-portfolio-website/static/js/main.a4df1973.js.map",
+    "787.8c081f57.chunk.js.map": "/react-portfolio-website/static/js/787.8c081f57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7273c58.css",
+    "static/js/main.a4df1973.js"
+  ]
+}
